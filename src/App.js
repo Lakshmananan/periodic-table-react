@@ -11,7 +11,8 @@ function App() {
   });
 
   return (
-    <div>
+    <div class='brown lighten-5'>
+      ><h1 className='center'>Period Table</h1>
       <Table />
     </div>
   );
