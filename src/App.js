@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div class='brown lighten-5'>
-      ><h1 className='center'>Period Table</h1>
+      ><h1 className='center'>Periodic Table of Elements</h1>
       <Table />
     </div>
   );
