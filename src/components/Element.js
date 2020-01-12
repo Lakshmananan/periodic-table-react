@@ -1,10 +1,11 @@
 import React from 'react';
+import './element.css';
 
 const Element = () => {
   return (
-    <div className='element card blue-grey darken-2  valign-wrapper'>
+    <div className='element card blue-grey darken-2 hoverable'>
       <div className=' white-text'>
-        <p className='card-title center-align'>H</p>
+        <p className='symbol card-title'>H</p>
       </div>
     </div>
   );
